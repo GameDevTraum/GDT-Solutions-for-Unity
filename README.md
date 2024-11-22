@@ -3,6 +3,8 @@
 # GDT Solutions for Unity
  Here you will find different solutions to use in your Unity project
 
-## Solution #1 - Basic first person controller
+### Solution #1 - Basic first person controller
 [Video showing this solution](https://www.youtube.com/watch?v=C9qj7dz-q-U)
 
+### Solution #2 - Load scene by name when pressing a button
+[Video showing this solution - (a little old) ](https://youtu.be/05OfmBIf5os)
