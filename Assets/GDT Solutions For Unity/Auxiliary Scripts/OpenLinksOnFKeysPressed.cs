@@ -8,10 +8,13 @@ namespace GDTSolutions
     namespace Auxiliary{
         public class OpenLinksOnFKeysPressed : MonoBehaviour
         {
-            public GameObject text;
+            public GameObject linksContainer;
+
+            public string videoURL;
+
             void Start()
             {
-                text.SetActive(true);
+                linksContainer.SetActive(true);
             }
             void Update()
             {
@@ -23,6 +26,14 @@ namespace GDTSolutions
                 {
                     Application.OpenURL("https://github.com/GameDevTraum");
                 }
+                if (Input.GetKeyDown(KeyCode.F3))
+                {
+                    if (videoURL != "")
+                    {
+                        Application.OpenURL(videoURL);
+                    }
+                }
+
             }
 
         }
