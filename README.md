@@ -8,3 +8,6 @@
 
 ### Solution #2 - Load scene by name when pressing a button
 [Video showing this solution - (a little old) ](https://youtu.be/05OfmBIf5os)
+
+### Solution #3 - Detect object inside a collider
+[Video showing this solution - (a little old) ](https://www.youtube.com/watch?v=v8gZMi8IJxU)
