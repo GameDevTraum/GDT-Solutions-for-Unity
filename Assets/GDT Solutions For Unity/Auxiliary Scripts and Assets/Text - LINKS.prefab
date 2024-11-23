@@ -80,9 +80,9 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'SHORTCUTS
 
-    F1: Subscribe to the YouTube Channel
+    F1: Check the YouTube Channel
 
-    F2: Follow my
-    GitHub Repository for more
+    F2: Follow GitHub Repository
+    for more
 
     F3: Video about this solution'
