@@ -1,7 +1,9 @@
 ![Screenshot 2024-11-20 225120](https://github.com/user-attachments/assets/ad28d3d1-81a8-4369-b8b8-60fa497bf3ab)
 
 # GDT Solutions for Unity
- Here you will find different examples and solutions to use in your Unity projects
+Unity 6000.0.28f1
+
+Here you will find different examples and solutions to use in your Unity projects
 
 ### Solution #1 - Basic first person controller [Video](https://www.youtube.com/watch?v=C9qj7dz-q-U)
 ![gdt-basic-first-person-controler-test-gif](https://github.com/user-attachments/assets/76ac7714-887b-418f-8162-5e9f55b8b39d)
