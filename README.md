@@ -13,3 +13,7 @@ Here you will find different examples and solutions to use in your Unity project
 ### Solution #3 - Detect object inside a collider [Video](https://www.youtube.com/watch?v=v8gZMi8IJxU)
 
 ### Solution #4 - Move object to a target position defined by another object [Video](https://www.youtube.com/watch?v=a1ENo0mO7To)
+
+### Solution #5 - Detect collisions between objects [Video](https://www.youtube.com/watch?v=bukNHwYH85Q)
+
+### Solution #6 - Example on how to play different sounds depending the collision surface [Video](https://www.youtube.com/watch?v=lBTtzqfaNdM)
