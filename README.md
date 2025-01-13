@@ -17,3 +17,5 @@ Here you will find different examples and solutions to use in your Unity project
 ### Solution #5 - Detect collisions between objects [Video](https://www.youtube.com/watch?v=bukNHwYH85Q)
 
 ### Solution #6 - Example on how to play different sounds depending the collision surface [Video](https://www.youtube.com/watch?v=lBTtzqfaNdM)
+
+### Solution #7 - Get the system time and display it on the user interface [Video](https://www.youtube.com/watch?v=E8-k9_DdkBg)
