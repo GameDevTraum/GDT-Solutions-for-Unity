@@ -11,6 +11,7 @@ namespace GDTSolutions
             public GameObject linksContainer;
 
             public string videoURL;
+            public string secondVideoURL;
 
             void Start()
             {
@@ -31,6 +32,13 @@ namespace GDTSolutions
                     if (videoURL != "")
                     {
                         Application.OpenURL(videoURL);
+                    }
+                }
+                if (Input.GetKeyDown(KeyCode.F4))
+                {
+                    if (secondVideoURL != "")
+                    {
+                        Application.OpenURL(secondVideoURL);
                     }
                 }
 
