@@ -951,6 +951,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   linksContainer: {fileID: 0}
   videoURL: https://www.youtube.com/watch?v=C9qj7dz-q-U
+  secondVideoURL: 
 --- !u!114 &1472850300
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -999,7 +1000,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1630107987}
   m_Layer: 0
-  m_Name: Hi YouTube
+  m_Name: Hi YouTube (From GitHub video)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
