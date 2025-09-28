@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Button_AlternateState : MonoBehaviour
 {
@@ -17,8 +18,6 @@ public class Button_AlternateState : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
-        
 
         buttonText = transform.GetChild(0).GetComponent<TMP_Text>();
 

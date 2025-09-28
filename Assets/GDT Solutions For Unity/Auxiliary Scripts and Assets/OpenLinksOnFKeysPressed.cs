@@ -13,6 +13,8 @@ namespace GDTSolutions
             public string videoURL;
             public string secondVideoURL;
 
+            public bool channelES =false;
+
             void Start()
             {
                 linksContainer.SetActive(true);
@@ -21,7 +23,16 @@ namespace GDTSolutions
             {
                 if (Input.GetKeyDown(KeyCode.F1))
                 {
-                    Application.OpenURL("https://www.youtube.com/@GameDevTraumEN/");
+                    if (channelES)
+                    {
+                        Application.OpenURL("https://www.youtube.com/@GameDevTraum/");
+
+                    }
+                    else
+                    {
+                        Application.OpenURL("https://www.youtube.com/@GameDevTraumEN/");
+
+                    }
                 }
                 if (Input.GetKeyDown(KeyCode.F2))
                 {
