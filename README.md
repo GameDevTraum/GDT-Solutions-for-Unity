@@ -25,3 +25,5 @@ Here you will find different examples and solutions to use in your Unity project
 ### #8 - Use functions from different scripts - [Video](https://www.youtube.com/watch?v=7Faxe1-sFhQ)
 
 ### #9 - State-Switching button to reuse - [Video](https://www.youtube.com/watch?v=gxukilFKnps)
+
+### #10 - Implement a cooldown timer for an action - [Video](https://www.youtube.com/watch?v=5aMe9IdX5ng)
