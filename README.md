@@ -24,11 +24,8 @@ Here you will find different examples and solutions to use in your Unity project
 
 #8 - Use functions from different scripts - [Video](https://www.youtube.com/watch?v=7Faxe1-sFhQ)
 
-#9 - State-Switching button to reuse - [Video](https://www.youtube.com/watch?v=gxukilFKnps)
-#9 ESPAÑOL - Crear botón alternante reutilizable - [Video](https://www.youtube.com/watch?v=2D1wiOxFl_g)
+#9 - State-Switching button to reuse - [Video](https://www.youtube.com/watch?v=gxukilFKnps) - ESPAÑOL - Crear botón alternante reutilizable - [Video](https://www.youtube.com/watch?v=2D1wiOxFl_g)
 
-#10 - Implement a cooldown timer for an action - [Video](https://www.youtube.com/watch?v=5aMe9IdX5ng)
-#10 ESPAÑOL - Implementar cooldown para una acción - [Video](https://www.youtube.com/watch?v=0-WkhN0qNEE)
+#10 - Implement a cooldown timer for an action - [Video](https://www.youtube.com/watch?v=5aMe9IdX5ng) - ESPAÑOL - Implementar cooldown para una acción - [Video](https://www.youtube.com/watch?v=0-WkhN0qNEE)
 
-#11 - How to iterate through children of a GameObject - [Video](https://www.youtube.com/watch?v=C33xj4hjg_E)
-#11 ESPAÑOL - Cómo iterar sobre los hijos de un GameObject - [Video](https://www.youtube.com/watch?v=gR8kWP3nYFQ)
+#11 - How to iterate through children of a GameObject - [Video](https://www.youtube.com/watch?v=C33xj4hjg_E) - ESPAÑOL - Cómo iterar sobre los hijos de un GameObject - [Video](https://www.youtube.com/watch?v=gR8kWP3nYFQ)
